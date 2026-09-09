@@ -23,6 +23,7 @@ Hold your fists up like you're gripping a wheel, tilt to steer, and open your pa
 </p>
 
 </div>
+
 ---
 
 ## 🎬 Demo
@@ -31,19 +32,8 @@ Hold your fists up like you're gripping a wheel, tilt to steer, and open your pa
   <img src="assets/demo.gif" alt="Virtual Steering Wheel demo — hand gestures controlling TORCS" width="700">
 </p>
 
-<p align="center"><i>🚧 Placeholder — replace with your own recording. See below for how.</i></p>
+<p align="center"><i>🚧 Visit /assets.</i></p>
 
-<details>
-<summary><b>How to record and add your own demo GIF</b></summary>
-
-1. Create an `assets/` folder in the repo root and record a short (10–15s) clip of yourself playing TORCS (or Chrome Dino) with the script running, ideally with the HUD window visible in a corner or side-by-side with the game.
-2. **Windows:** use the built-in **Xbox Game Bar** (`Win + G`) or [ScreenToGif](https://www.screentogif.com/) to capture and export directly as a `.gif`.
-   **macOS:** use `Cmd + Shift + 5` to record, then convert to GIF with [Gifski](https://gif.ski/) for small file size and clean quality.
-3. Keep the file under ~10MB so it loads fast on GitHub — trim length or lower frame rate/resolution in Gifski/ScreenToGif if it's too big.
-4. Save it as `assets/demo.gif` and this section will render it automatically — no other changes needed.
-5. Optional: add a second GIF or a YouTube link for a longer, narrated walkthrough.
-
-</details>
 
 ---
 
