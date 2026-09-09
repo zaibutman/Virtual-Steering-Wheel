@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🎮 Virtual Steering Wheel
 
 **Turn your bare hands into a steering wheel — no controller, no hardware, just a webcam.**
@@ -20,6 +22,7 @@ Hold your fists up like you're gripping a wheel, tilt to steer, and open your pa
   <img src="https://img.shields.io/badge/👊_Tilt_L%2FR-Steer-blue?style=flat-square" />
 </p>
 
+</div>
 ---
 
 ## 🎬 Demo
@@ -191,6 +194,20 @@ Works with **any** game or app that accepts arrow-key input for movement — it 
 - [ ] Gamepad emulation via `vgamepad` for analog steering
 
 ---
+
+<div align="center">
+  
+## 👤 Author
+ 
+<div align="center">
+  
+**Shah Mubarak Zaib**
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-@zaibutman-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zaibutman)
+
+---
+
+ 
 
 ## 📄 License
 
